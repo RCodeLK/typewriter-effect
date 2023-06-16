@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+font-family: 'Poppins', sans-serif;
+
+BG Color : #0f0f0f
+Royal Blue : #4169e1
+
+(Node Js Required!!!)
+npm install typed.js
